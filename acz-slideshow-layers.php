@@ -3,7 +3,7 @@
  * Plugin Name: ACZ Slideshow Layers
  * Description: Adds an Elementor nested slideshow widget where every slide is an editable container layer.
  * Version: 1.0.10
- * Author: ACZ
+ * Author: Allan Cabusora
  * Text Domain: acz-slideshow-layers
  * Requires Plugins: elementor
  */
